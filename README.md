@@ -17,7 +17,7 @@ ETL and deployment : API REST, Mage.AI, Docker, Web Scraping
 
 Business Intelligence : Power BI, Tableau, Qlik Sense
 
-Web interface : Streamlit
+Web interface : Streamlit, Fast API
 
 Environments : Visual Studio Code, Google Colab, MySQL, PostgreSQL, Git/GitHub
 
