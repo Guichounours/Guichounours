@@ -19,7 +19,7 @@ Business Intelligence : Power BI, Tableau, Qlik Sense
 
 Web : Streamlit, Fast API
 
-Environments : Visual Studio Code, Google Colab, MySQL, PostgreSQL, Git/GitHub
+Environments : Visual Studio Code, Google Colab, dbt, MySQL, PostgreSQL, Git/GitHub
 
 
 ## 📌 Ongoing Projects :
