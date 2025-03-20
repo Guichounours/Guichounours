@@ -24,6 +24,8 @@ Environments : Visual Studio Code, Google Colab, dbt, MySQL, PostgreSQL, Git/Git
 
 ## 📌 Completed Projects :
 
+🚗 Insights and dashboarding for strategic decision-making in a model sales company
+
 🛠️ Machine Learning movie recommendation tool & Streamlit interface
 
 📦 ETL pipeline with Docker for pollutant data analysis in France
