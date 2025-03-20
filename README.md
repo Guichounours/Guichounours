@@ -1,6 +1,6 @@
 ## 👋 Welcome on my GitHub
 
-I'm Guillaume, on a Data Analyst course at the WILD CODE SCHOOL in LYON ! 🚀
+I'm Guillaume, a newly qualified Data Analyst ! 🚀
 
 
 ## 🔥 What I Do :
@@ -22,7 +22,8 @@ Web : Streamlit, Fast API
 Environments : Visual Studio Code, Google Colab, dbt, MySQL, PostgreSQL, Git/GitHub
 
 
-## 📌 Ongoing Projects :
+## 📌 Completed Projects :
+
 🛠️ Machine Learning movie recommendation tool & Streamlit interface
 
 📦 ETL pipeline with Docker for pollutant data analysis in France
@@ -30,6 +31,8 @@ Environments : Visual Studio Code, Google Colab, dbt, MySQL, PostgreSQL, Git/Git
 📦 Forecasting pollution peaks using Machine Learning
 
 ❤️ Analysis of user data from a dating application
+
+🍾 Market study to determine the selling price of bottles from a Burgundy estate
 
 
 ## 🫶 What I love :
